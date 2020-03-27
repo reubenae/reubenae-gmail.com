@@ -1,2 +1,1 @@
-# reubenae-gmail.com
-semantic-html-demo
+# semantic-html-demo
